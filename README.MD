@@ -1,3 +1,5 @@
+# Version del cursi
+version 1.2.2
 # Cabecera H1
 ## cabecera H2
 ### cabecera H3

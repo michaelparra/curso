@@ -1,4 +1,4 @@
-# Version del cursi
+# Version del curso
 version 1.2.2
 # Cabecera H1
 ## cabecera H2
